@@ -31,3 +31,7 @@ and applying analytical techniques to real-world datasets.
 ## Outcome
 This subject strengthened my understanding of how to analyze data,
 extract meaningful patterns, and support data-driven decision making.
+## Deliverables
+- Report: `docs/`
+- Presentation: `docs/`
+- Code: `notebooks/` and/or `src/`
